@@ -1,0 +1,6 @@
+﻿Time,SourceUser,SourceHostname,SourceIP,SourcePort,AccessType,DestHostname,DestIP,DesrPort,TrafficBytes
+2023-07-19T16:35:15.123456Z,mark,mark-pc.contoso,10.0.0.6,35442,Normal,googleadservices.com,142.250.105.157,443,10240
+2023-07-19T16:35:20.123456Z,mark,mark-pc.contoso,10.0.0.6,35442,Redirection,audacite.org,15.197.130.221,443,10240
+2023-07-19T16:35:25.123456Z,mark,mark-pc.contoso,10.0.0.6,35442,Redirection,dc708.4sync.com,204.155.149.130,443,"65,536,000"
+2023-07-19T16:35:20.123456Z,jeff,jeff-pc.contoso,10.0.0.7,27634,Normal,google.com,8.8.8.8,443,10240
+2023-07-19T16:36:21.123456Z,mark,mark-pc.contoso,10.0.0.6,35442,Normal,,95.216.207.27,80,"174,080"
